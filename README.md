@@ -67,6 +67,3 @@ Skilled in **Power BI, SQL, Excel, and data storytelling.**
 
 `#PowerBI` `#DataAnalytics` `#Dashboard` `#RetailAnalytics` `#SupplyChain` `#BusinessIntelligence`
 
-
-Would you like me to make a **short version of this README** (just key sections + emojis + minimal text) that fits neatly on your GitHub homepage too?
-That’s the one most recruiters see first.
